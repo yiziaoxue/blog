@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Luka Blog
+subtitle: '每天记录一点点'
+description: '每天记录一点点'
 keywords:
-author: John Doe
-language: en
+author: Luka Chun
+language: cn
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://yiziaoxue.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -97,8 +97,8 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
-theme: landscape
+## Themes: https://hexo.io/themes/|landscape|yilia|butterfly
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
